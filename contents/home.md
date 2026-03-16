@@ -1,4 +1,3 @@
-![Jialiang Jiang]
 
 He is currently a Ph.D. candidate School of Computing and Data Science, The University of Hong Kong, supervised by Prof. Guosheng Yin and Prof. Kwok Fai Lam.
 
