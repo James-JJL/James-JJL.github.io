@@ -1,12 +1,11 @@
 
-He is currently a Ph.D. candidate School of Computing and Data Science, The University of Hong Kong, supervised by Prof. Guosheng Yin and Prof. Kwok Fai Lam.
+He is currently a Ph.D. candidate in School of Computing and Data Science at the Faculty of Engineering, The University of Hong Kong, supervised by Prof. Kwok Fai Lam and Prof. Guosheng Yin.
 
 #### Contact
 Email: u3558597@connect.hku.hk
 
 #### Education
 **Ph.D. in Statistics**, The University of Hong Kong, Hong Kong SAR, China, 09/2021–07/2026 (Expected)  
-*Thesis: Statistical Modeling of Time-Varying Vaccine and Antiviral Drug Effectiveness with Applications in Public Health Strategy Optimization and Causal Inference Methods*
 
 **M.Sc. in Data Science**, The University of Hong Kong, Hong Kong SAR, China, 09/2018–12/2020  
 
