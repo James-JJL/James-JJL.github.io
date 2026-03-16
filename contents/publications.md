@@ -1,16 +1,39 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2026). Learning from the omicron BA.4/5 dominance: Strategies for future vaccination preparedness. *Vaccine*, 71, Article 128058.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2025). Protection and waning of vaccine-induced, natural and hybrid immunity to SARS-CoV-2 in Hong Kong. *Expert Review of Vaccines*, 24(1), 252–260.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2025). Estimation of trajectory of COVID-19 vaccines effectiveness against infection. *Vaccine*, 55, Article 127067.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2025). Joint analysis of time-varying effect of vaccine and antiviral drug for preventing severe complications and mortality. *Scientific Reports*, 15(1), 5640–5649.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **Jiang, J.**, Lau, E. H. Y., Zhou, Z., Yin, G., Lin, Y., Cowling, B. J., & Lam, K. F. (2024). Assessing the Impact of Primary-Series Infection and Booster Vaccination on Protection against Omicron in Hong Kong: A Population-Based Observational Study. *Vaccines*, 12(9), 1014.
 
+- Cheung, Y. Y. H., Lau, E. H. Y., Yin, G., Lin, Y., **Jiang, J.**, Cowling, B. J., & Lam, K. F. (2024). Joint analysis of vaccination effectiveness and antiviral drug effectiveness for COVID-19: a causal inference approach. *International Journal of Infectious Diseases*, 143, Article 107012.
+
+#### Under Review / In Preparation
+
+- **Jiang, J.**, Yin, G. & Lam, K. F. (2026+). Hierarchical clustering matching and rerandomization for causality.
+
+- **Jiang, J.**, Yin, G. & Lam, K. F. (2026+). Hierarchical clustering matching for causal inference in observational studies.
+
+- Lyu, R., Gu, Y., **Jiang, J.**, & Lam, K. F. (2026+). Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs.
+
+- Tang, A., Lam, K. F., **Jiang, J.** & Tang, S. C. W. (2026+). Effect of statins on GFR and albuminuria in patient with IgA nephropathy.
+
+- **Jiang, J.** & Lam, K. F. (2026+). Clustered case-1 dependent interval-censored data with informative cluster size and a cured proportion in survival analysis.
+
+- **Jiang, J.** & Lam, K. F. (2026+). A semiparametric joint transformation cure model for clustered current-status data with informative cluster size.
+
+- **Jiang, J.** & Lam, K. F. (2026+). Testing for the cure fraction in mixture cure models with current-status data: Score and likelihood ratio tests under boundary constraints.
+
+- **Jiang, J.** & Lam, K. F. (2026+). Doubly robust score tests to mitigate collider bias in incomplete covariates with high-dimensional auxiliary variables.
+
+- **Jiang, J.** & Lam, K. F. (2026+). Bayesian simultaneous variable selection and functional form determination in cox regression via reversible jump markov chain monte carlo.
+
+- **Jiang, J.** & Lam, K. F. (2026+). Bayesian analysis of partly linear transformation cure models via reversible jump markov chain monte carlo.
+
+- **Jiang, J.** & Lam, K. F. (2026+). Bayesian free-knot cubic b-splines for partly linear proportional hazards models with interval-censored data.
+
+- **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2026+). Comparative effectiveness of Paxlovid and Molnupiravir in hospitalized vaccinated adults with COVID-19: A target trial emulation study.
