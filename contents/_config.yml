@@ -1,0 +1,38 @@
+# Jekyll Configuration for Academic Homepage
+title: Jialiang Jiang's Homepage
+description: Ph.D. Candidate in Data Science & Causal Inference
+url: "https://james-jjl.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Theme
+remote_theme: senli1073/academic-homepage-template
+
+# Collections
+collections:
+  contents:
+    output: true
+    permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: "contents"
+    values:
+      layout: default
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Exclude
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - screenshot_full.png
