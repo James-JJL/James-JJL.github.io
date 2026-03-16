@@ -3,3 +3,15 @@ page-top-title: Jialiang Jiang
 top-section-bg-text: Data Science
 home-subtitle: Jialiang Jiang
 copyright-text: '© Jialiang Jiang 2021-2026. All Rights Reserved.'
+
+nav:
+  - name: Home
+    url: /
+  - name: Publications
+    url: /publications/
+  - name: Teaching
+    url: /teaching/ 
+  - name: Services
+    url: /services/
+  - name: Awards
+    url: /awards/
