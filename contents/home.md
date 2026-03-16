@@ -18,8 +18,3 @@ Email: u3558597@connect.hku.hk
 
 #### Research Interests
 Causal Inference; Time-Varying Effect Modeling; High-Dimensional Data Algorithms; Survival Analysis; Bayesian Methods; Public Health Statistics; Vaccine/Drug Effectiveness Evaluation
-
-#### Skills
-- **Programming**: Python, R, C, MySQL, Tableau, HTML, LaTeX, SPSS, SAS
-- **Methods**: Statistical Modeling, Causal Inference, NLP, Machine Learning, Data Visualization, High-Dimensional Data
-- **Languages**: English (IELTS 7.0), Mandarin (Native), Cantonese (Working proficiency)
