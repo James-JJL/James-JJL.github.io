@@ -16,4 +16,4 @@ Email: u3558597@connect.hku.hk
 **Research Assistant**, Centre for Suicide Research and Prevention, The Hong Kong Jockey Club, Hong Kong SAR, China | 07/2019 – 04/2020
 
 #### Research Interests
-Causal Inference; Time-Varying Effect Modeling; High-Dimensional Data Algorithms; Survival Analysis; Bayesian Methods; Public Health Statistics; Vaccine/Drug Effectiveness Evaluation
+Bayesian Analysis; Causal Inference; Public Health; Survival Analysis; Time-Varying Effect Modeling; Vaccine/Drug Effectiveness
