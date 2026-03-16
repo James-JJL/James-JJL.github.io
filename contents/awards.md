@@ -1,12 +1,7 @@
+- Outstanding Graduate Award, Shenzhen University, 2018
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Mathematics Culture Scholarship, Shenzhen Mathematical Society, 2017
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Third Prize, Guangdong Provincial Mathematical Modeling Competition, 2017 & 2016
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Meritorious Winner, International Contest in Mathematical Modeling (MCM/ICM), 2017
