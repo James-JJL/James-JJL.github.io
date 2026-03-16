@@ -12,6 +12,10 @@ Email: u3558597@connect.hku.hk
 
 **B.Sc. in Mathematics and Applied Mathematics**, Shenzhen University, Shenzhen, China, 09/2014–07/2018  
 
+#### Experience
+
+**Research Assistant**, Centre for Suicide Research and Prevention, The Hong Kong Jockey Club, Hong Kong SAR, China | 07/2019 – 04/2020
+
 #### Research Interests
 Causal Inference; Time-Varying Effect Modeling; High-Dimensional Data Algorithms; Survival Analysis; Bayesian Methods; Public Health Statistics; Vaccine/Drug Effectiveness Evaluation
 
