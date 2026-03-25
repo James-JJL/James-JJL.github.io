@@ -37,7 +37,11 @@
 - **Jiang, J.** (2026+). Bayesian free-knot cubic b-splines for partly linear proportional hazards models with interval-censored data.
 
 - **Jiang, J.** (2026+). Bayesian Model Averaging for Transformation Selection in Partly Linear Cure Models via Spike-and-Slab RJMCMC.
-  
-- **Jiang, J.** (2026+). Triply robust estimation of cause-specific treatment effects via restricted mean time lost decomposition under competing risks
+
+- **Jiang, J.** (2026+). Score Tests for the Existence of a Random Change-Point in the Cox Proportional Hazards Model.
+
+- **Jiang, J.** (2026+). Doubly Robust Estimation of Causal Survival Effects Under Interval-Censored Failure Time Data.
+
+- **Jiang, J.** (2026+). Triply robust estimation of cause-specific treatment effects via restricted mean time lost decomposition under competing risks.
 
 - **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2026+). Comparative effectiveness of Paxlovid and Molnupiravir in hospitalized vaccinated adults with COVID-19: A target trial emulation study.
