@@ -5,6 +5,7 @@ I serve as a peer reviewer for the following journals:
 - *Archives of Public Health* (2025–present)
 - *Respiratory Research* (2025–present)
 - *Scientific Reports* (2025–present)
+- *npj Aging* (2026–present)
 
 #### Conference & Community Service
 - Speaker, Guangdong-Hong Kong-Macao Data Elements × AI Healthcare Closed-Door Seminar (01/2026)  
