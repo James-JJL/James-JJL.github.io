@@ -42,6 +42,12 @@
 
 - **Jiang, J.** (2026+). Doubly Robust Estimation of Causal Survival Effects Under Interval-Censored Failure Time Data.
 
-- **Jiang, J.** (2026+). Triply robust estimation of cause-specific treatment effects via restricted mean time lost decomposition under competing risks.
+- **Jiang, J.** (2026+). Robust estimation of cause-specific treatment effects via restricted mean time lost decomposition under competing risks.
+
+- **Jiang, J.** (2026+). Bayesian Bi-Component Variable Selection for Mixture Cure Rate Models via Horseshoe Priors.
+
+- **Jiang, J.** (2026+). Density Ratio Sieve Estimation for Multi-Source Interval-Censored Data Under Semiparametric Transformation Models.
+
+- **Jiang, J.** (2026+). Prediction-Powered Double Machine Learning: Efficient Causal Inference via Subsampling and Control.
 
 - **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2026+). Comparative effectiveness of Paxlovid and Molnupiravir in hospitalized vaccinated adults with COVID-19: A target trial emulation study.
