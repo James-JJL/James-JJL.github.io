@@ -1,5 +1,9 @@
 #### Published
 
+- Liu, H., Lai, T. K. H., **Jiang, J.**, Lam, K. F., Au, A., Wong, W. T., Liu, T., Lee, S., Cheng, S. H., & Yu, P. K. N. (2026). A high performance Cox proportional hazards model for large scale survival analysis. Biomedical Physics & Engineering Express.
+
+- Lyu, R., **Jiang, J.**, Lam, K. F., & Gu, Y. (2026). Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs. Statistics in Biopharmaceutical Research, 1–8.
+
 - **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2026). Learning from the omicron BA.4/5 dominance: Strategies for future vaccination preparedness. *Vaccine*, 71, Article 128058.
 
 - **Jiang, J.**, Lam, K. F., Lau, E. H. Y., Yin, G., Lin, Y., & Cowling, B. J. (2025). Protection and waning of vaccine-induced, natural and hybrid immunity to SARS-CoV-2 in Hong Kong. *Expert Review of Vaccines*, 24(1), 252–260.
@@ -17,8 +21,6 @@
 - **Jiang, J.**, Yin, G. & Lam, K. F. (2026+). Hierarchical clustering matching and rerandomization for causality.
 
 - **Jiang, J.**, Yin, G. & Lam, K. F. (2026+). Hierarchical clustering matching for causal inference in observational studies.
-
-- Lyu, R., Gu, Y., **Jiang, J.**, & Lam, K. F. (2026+). Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs.
 
 - Tang, A., Lam, K. F., **Jiang, J.** & Tang, S. C. W. (2026+). Effect of statins on GFR and albuminuria in patient with IgA nephropathy.
 
